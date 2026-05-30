@@ -4854,11 +4854,84 @@
         "AUTHOR": "iVan_FluX",
         "CONTACT (OWNER)": "https://t.me/iVan_flux",
         "Finish": "00",
-        "Last update time": "08:10:35 PM 30-05-2026",
+        "Last update time": "12:10:32 AM 31-05-2026",
         "Live": "00",
         "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-        "Upcoming": "35",
+        "Upcoming": "36",
         "events": [
+            {
+                "cat": "Football",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd&k1=294b5761cefc22d0c6312939e13d8278&k2=52148f1042d238849f0a7813f1da8a7b\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "TNT SPORTS FHD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/8rbm0uwsbr/out/v1/86d7169ffdff4df6b28dfdb4b49bcfb3/106ca8fc-7790-47e2-b541-1aeccc80282d-cenc.mpd&k1=6a71d7af70eaeb1b018ded7640a26562&k2=5d7f73b42c19d3bb68c55d6ee2676b7d\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "PARAMOUNT+ FHD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/khsyiltgaz/out/v1/d2f281563daa4c8da8e2fd168552b757/cenc.mpd&k1=f9f400dbdf686f03db23db9dd98876fa&k2=868d7adb70555ac5fc9cbb6b7fa6e47c\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "VIX Español FHD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bjdphb1pef/out/v1/0a5fbcc3fc124cf9b996201087a58b2f/cenc.mpd&k1=3af37d023842c8f6cb7c1ae7c1b628f2&k2=aa42ee1574a5b52f421ba45abf75e0ed\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "TNT BRASIL FHD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/nc4iy7xgs2/out/v1/dc738e5b857040ee91f60376391c04a2/ea5faba4-c0fa-4441-8307-6d4f67a447a8-cenc.mpd&k1=06c12323d02d700f76037a24f268f865&k2=40d59eb5c60c7c5dfec54dae376a6df6\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "BECKHAM & FRIENDS",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://storage.googleapis.com/huntytiuhvbdznhfeas1/mux_video_ts1/index-1.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "PARAMOUNT+ HD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://datakameha.route64.de/fs/p/FOOTPLUSFR/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "CANAL FOOT+",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/7PlDuPWSqaitmZ7uCxzYgWN37UK0IFvl_jzgYAeDLNCrZJ3bei_CCmYGfi8kQwC42WhD8GAtljbCdnTIxQmj2A/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "beiN ARABIC HD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://pulltx.jdnzrgm.com/live/hd-en-6MwdL933iPPFSEEpjp.m3u8?txSecret=f62e09ed3b6f5e330f875dbb4f570256&txTime=6A1B31D2\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "FAST SERVER",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://pullsgp.yyzb456.top/live/stream-698168_lhd.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "HD SERVER",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://pull.livecdn.cc/live/4531815.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "HD SERVER 2",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/05/30 20:00:00 +0000",
+                    "eventName": "UEFA Champions League Final",
+                    "isHot": "0",
+                    "startTime": "2026/05/30 15:50:00 +0000",
+                    "teamA": "PSG",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/1644/image",
+                    "teamB": "Arsenal",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/42/image"
+                },
+                "id": 866,
+                "title": "UEFA Champions League Final"
+            },
             {
                 "cat": "Cricket",
                 "channels_data": [
@@ -5473,29 +5546,6 @@
                 "cat": "Football",
                 "channels_data": [
                     {
-                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd&k1=294b5761cefc22d0c6312939e13d8278&k2=52148f1042d238849f0a7813f1da8a7b\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "TNT SPORTS FHD",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/05/30 20:00:00 +0000",
-                    "eventName": "UEFA Champions League Final",
-                    "isHot": "0",
-                    "startTime": "2026/05/30 16:00:00 +0000",
-                    "teamA": "PSG",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/1644/image",
-                    "teamB": "Arsenal",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/42/image"
-                },
-                "id": 866,
-                "title": "UEFA Champions League Final"
-            },
-            {
-                "cat": "Football",
-                "channels_data": [
-                    {
                         "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-flux.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                         "title": "Ivan-FluX",
                         "tokenApi": ""
@@ -5678,13 +5728,6 @@
             },
             {
                 "cat": "Football",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=http://104.251.122.123:8089/fot4/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "SD SERVER",
-                        "tokenApi": ""
-                    }
-                ],
                 "eventInfo": {
                     "Status": "Upcoming",
                     "endTime": "2026/05/30 16:35:00 +0000",
@@ -5864,8 +5907,8 @@
                 "cat": "Ice hockey",
                 "channels_data": [
                     {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-flux.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "Ivan-FluX",
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd&k1=c4088f5f265f9de50cffd80bf89308b7&k2=2c4d2239d96d532b4ec2050653611003\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "TSN SPORTS FHD",
                         "tokenApi": ""
                     }
                 ],
@@ -5925,6 +5968,29 @@
                 },
                 "id": 884,
                 "title": "International Friendly Games"
+            },
+            {
+                "cat": "Cricket",
+                "channels_data": [
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/by2jedviky/out/v1/6b3caf27646b46119a0defe04954aed0/cenc-sd.mpd&k1=56524b11e4b2c5492308ebdc3a4f46ba&k2=1a53959fa8b3bee779786ef53a29b054\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "WILLOW FHD",
+                        "tokenApi": ""
+                    }
+                ],
+                "eventInfo": {
+                    "Status": "Upcoming",
+                    "endTime": "2026/05/30 22:30:00 +0000",
+                    "eventName": "T20 Blast",
+                    "isHot": "0",
+                    "startTime": "2026/05/30 18:00:00 +0000",
+                    "teamA": "SUS",
+                    "teamAFlag": "https://img.sofascore.com/api/v1/team/187836/image",
+                    "teamB": "MID",
+                    "teamBFlag": "https://img.sofascore.com/api/v1/team/187833/image"
+                },
+                "id": 885,
+                "title": "T20 Blast"
             }
         ]
     }

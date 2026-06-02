@@ -4959,10 +4959,10 @@
         "AUTHOR": "iVan_FluX",
         "CONTACT (OWNER)": "https://t.me/iVan_flux",
         "Finish": "00",
-        "Last update time": "06:20:42 PM 02-06-2026",
+        "Last update time": "01:20:49 AM 03-06-2026",
         "Live": "00",
         "TELEGRAM CHANNEL": "https://t.me/api_hub_by_ivan",
-        "Upcoming": "53",
+        "Upcoming": "50",
         "events": [
             {
                 "cat": "Cricket",
@@ -4970,6 +4970,21 @@
                     {
                         "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/kr46ndje4l/out/v1/9833c1deedb64791b99615a4aefefb66/cenc.mpd&k1=56816fa6c2b3fa65a5de766d52f08b7f&k2=07c1b41782e4321883a06b73629200a0\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                         "title": "WILLOW FHD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://tvsen5.aynaott.com/PtvSports/index.m3u8?e=1780145861&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=b168011e3ca5c9601e25488c3369cef0\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "PTV SPORTS HD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://tvsen7.aynaott.com/tsports-hd/index.m3u8?e=1780145861&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=8bbe8b546fa058429efacc41be2fb8b1\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "T SPORTS HD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=http://95.133.241.239:8089/crc1/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "PTV SPORTS SD",
                         "tokenApi": ""
                     }
                 ],
@@ -5042,8 +5057,18 @@
                 "cat": "Cricket",
                 "channels_data": [
                     {
-                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/ap100z7ju8/out/v1/bd83499afa5c4526a20e8f1813a9ac77/cenc-sd.mpd&k1=e59d71527da753e98bccaeba761ed23e&k2=141219a8b44c2be17af967fb909ab2eb\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ewa8knrnhy/out/v1/86b617c4bd814ff88f7ccb2d88914ac6/cenc.mpd&k1=b1fe42809099f51610bb94ce2c6fd99d&k2=3f39a299f97643de32d8b76c8adcbe08\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                         "title": "WILLOW FHD",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://abdfyr5aaaaaaaamblknqqdakgoyf.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ewa8knrnhy/out/v1/86b617c4bd814ff88f7ccb2d88914ac6/cenc.mpd&k1=b1fe42809099f51610bb94ce2c6fd99d&k2=3f39a299f97643de32d8b76c8adcbe08\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "WILLOW FHD [ALT]",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd&k1=290e09c837da78d5cd961978d390515c&k2=b748836c71e6a4ca68ef5b5652db6247\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "WILLOW HD",
                         "tokenApi": ""
                     }
                 ],
@@ -5682,8 +5707,8 @@
                 "cat": "Football",
                 "channels_data": [
                     {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-flux.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "Ivan-FluX",
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://pulltx.jdnzrgm.com/live/sd-6Mwe5EKCvq8Lyd1xA2.m3u8?txSecret=303e94bf74018cc28d92838fab967cc0&txTime=6A1F3371\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "HD SERVER",
                         "tokenApi": ""
                     }
                 ],
@@ -5731,6 +5756,16 @@
                         "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/y3mtc7phj2/out/v1/a48ab8dfd51c4d1f9a08774b3cd4c49e/cenc.mpd&k1=fa5e8db5359fc7d1f15207d5de2a3ac4&k2=78a6c0a41972dfdba2145ae0ad4bd681\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
                         "title": "FUBO SPORTS FHD",
                         "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://pulltx.jdnzrgm.com/live/sd-6MwcqKMKLbfmR8URnE.m3u8?txSecret=90537c674556c9f8cfa43470cfdb52ab&txTime=6A1F2292\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "FAST SERVER",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://pul-tenm.nbs3g.com/live/sd-1-4512480.m3u8?txSecret=aafc230d45dd4c2acaf09d14648686d6&txTime=6A2049EE\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "HD SERVER",
+                        "tokenApi": ""
                     }
                 ],
                 "eventInfo": {
@@ -5751,31 +5786,18 @@
                 "cat": "Football",
                 "channels_data": [
                     {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-flux.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "Ivan-FluX",
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ciwzcg2r2a/out/v1/83e94e1e8f76494f8173edb038f25837/cenc.mpd&k1=c0a4cba1bdaa3a61b156174c2c1a433c&k2=4b0637a765aca34430cbea5a2931ae72\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "ViX ESPANOL FHD",
                         "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/06/03 02:20:00 +0000",
-                    "eventName": "Copa do Nordeste",
-                    "isHot": "0",
-                    "startTime": "2026/06/03 00:00:00 +0000",
-                    "teamA": "Fortaleza",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/2020/image",
-                    "teamB": "Vitória",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/1962/image"
-                },
-                "id": 956,
-                "title": "Copa do Nordeste"
-            },
-            {
-                "cat": "Football",
-                "channels_data": [
+                    },
                     {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-flux.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "Ivan-FluX",
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd&k1=11223344556677889900112233445566&k2=4b80724d0ef86bcb2c21f7999d67739d\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "SPORT TV 2",
+                        "tokenApi": ""
+                    },
+                    {
+                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://pulltx.jdnzrgm.com/live/sd-6Mwe5Ztg3xNd9kozgE.m3u8?txSecret=e254bd2f7b86aab216588e8e7e1568d9&txTime=6A1F3371\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "HD SERVER",
                         "tokenApi": ""
                     }
                 ],
@@ -5810,37 +5832,7 @@
                 "title": "ASEAN Championship"
             },
             {
-                "cat": "Football",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-flux.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "Ivan-FluX",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/06/03 02:50:00 +0000",
-                    "eventName": "Primera A, Apertura",
-                    "isHot": "0",
-                    "startTime": "2026/06/03 00:30:00 +0000",
-                    "teamA": "Junior Barranquilla",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/6105/image",
-                    "teamB": "Atl. Nacional",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/6106/image"
-                },
-                "id": 960,
-                "title": "Primera A, Apertura"
-            },
-            {
                 "cat": "Baseball",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-flux.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "Ivan-FluX",
-                        "tokenApi": ""
-                    }
-                ],
                 "eventInfo": {
                     "Status": "Upcoming",
                     "endTime": "2026/06/03 02:10:00 +0000",
@@ -5857,13 +5849,6 @@
             },
             {
                 "cat": "Baseball",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-flux.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "Ivan-FluX",
-                        "tokenApi": ""
-                    }
-                ],
                 "eventInfo": {
                     "Status": "Upcoming",
                     "endTime": "2026/06/03 01:45:00 +0000",
@@ -5880,13 +5865,6 @@
             },
             {
                 "cat": "Baseball",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-flux.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "Ivan-FluX",
-                        "tokenApi": ""
-                    }
-                ],
                 "eventInfo": {
                     "Status": "Upcoming",
                     "endTime": "2026/06/03 02:40:00 +0000",
@@ -5903,13 +5881,6 @@
             },
             {
                 "cat": "Baseball",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-flux.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "Ivan-FluX",
-                        "tokenApi": ""
-                    }
-                ],
                 "eventInfo": {
                     "Status": "Upcoming",
                     "endTime": "2026/06/03 03:10:00 +0000",
@@ -5926,13 +5897,6 @@
             },
             {
                 "cat": "Baseball",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-flux.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "Ivan-FluX",
-                        "tokenApi": ""
-                    }
-                ],
                 "eventInfo": {
                     "Status": "Upcoming",
                     "endTime": "2026/06/03 04:38:00 +0000",
@@ -5949,13 +5913,6 @@
             },
             {
                 "cat": "Baseball",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-flux.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "Ivan-FluX",
-                        "tokenApi": ""
-                    }
-                ],
                 "eventInfo": {
                     "Status": "Upcoming",
                     "endTime": "2026/06/03 01:40:00 +0000",
@@ -5972,13 +5929,6 @@
             },
             {
                 "cat": "Baseball",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-flux.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "Ivan-FluX",
-                        "tokenApi": ""
-                    }
-                ],
                 "eventInfo": {
                     "Status": "Upcoming",
                     "endTime": "2026/06/03 02:05:00 +0000",
@@ -5995,13 +5945,6 @@
             },
             {
                 "cat": "Baseball",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-flux.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "Ivan-FluX",
-                        "tokenApi": ""
-                    }
-                ],
                 "eventInfo": {
                     "Status": "Upcoming",
                     "endTime": "2026/06/03 02:40:00 +0000",
@@ -6018,13 +5961,6 @@
             },
             {
                 "cat": "Baseball",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-flux.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "Ivan-FluX",
-                        "tokenApi": ""
-                    }
-                ],
                 "eventInfo": {
                     "Status": "Upcoming",
                     "endTime": "2026/06/03 04:40:00 +0000",
@@ -6041,13 +5977,6 @@
             },
             {
                 "cat": "Baseball",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-flux.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "Ivan-FluX",
-                        "tokenApi": ""
-                    }
-                ],
                 "eventInfo": {
                     "Status": "Upcoming",
                     "endTime": "2026/06/03 01:45:00 +0000",
@@ -6064,13 +5993,6 @@
             },
             {
                 "cat": "Baseball",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-flux.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "Ivan-FluX",
-                        "tokenApi": ""
-                    }
-                ],
                 "eventInfo": {
                     "Status": "Upcoming",
                     "endTime": "2026/06/03 04:40:00 +0000",
@@ -6087,13 +6009,6 @@
             },
             {
                 "cat": "Baseball",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-flux.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "Ivan-FluX",
-                        "tokenApi": ""
-                    }
-                ],
                 "eventInfo": {
                     "Status": "Upcoming",
                     "endTime": "2026/06/03 03:05:00 +0000",
@@ -6110,13 +6025,6 @@
             },
             {
                 "cat": "Baseball",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-flux.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "Ivan-FluX",
-                        "tokenApi": ""
-                    }
-                ],
                 "eventInfo": {
                     "Status": "Upcoming",
                     "endTime": "2026/06/03 02:15:00 +0000",
@@ -6133,13 +6041,6 @@
             },
             {
                 "cat": "Baseball",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-flux.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "Ivan-FluX",
-                        "tokenApi": ""
-                    }
-                ],
                 "eventInfo": {
                     "Status": "Upcoming",
                     "endTime": "2026/06/03 01:40:00 +0000",
@@ -6156,13 +6057,6 @@
             },
             {
                 "cat": "Baseball",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-flux.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "Ivan-FluX",
-                        "tokenApi": ""
-                    }
-                ],
                 "eventInfo": {
                     "Status": "Upcoming",
                     "endTime": "2026/06/03 02:45:00 +0000",
@@ -6204,8 +6098,8 @@
                 "cat": "Basketball",
                 "channels_data": [
                     {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-flux.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "Ivan-FluX",
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd|User-Agent=Mozilla/5.0&k1=daa8ea92553fd16cd6bfae2b8c582715&k2=4042e041b5639b79b69ae07a872eef9b\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "TSN 2",
                         "tokenApi": ""
                     }
                 ],
@@ -6227,8 +6121,8 @@
                 "cat": "Basketball",
                 "channels_data": [
                     {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-flux.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "Ivan-FluX",
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd|User-Agent=Mozilla/5.0&k1=daa8ea92553fd16cd6bfae2b8c582715&k2=4042e041b5639b79b69ae07a872eef9b\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "TSN 2",
                         "tokenApi": ""
                     }
                 ],
@@ -6247,34 +6141,11 @@
                 "title": "WNBA"
             },
             {
-                "cat": "Basketball",
-                "channels_data": [
-                    {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-flux.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "Ivan-FluX",
-                        "tokenApi": ""
-                    }
-                ],
-                "eventInfo": {
-                    "Status": "Upcoming",
-                    "endTime": "2026/06/03 04:30:00 +0000",
-                    "eventName": "WNBA",
-                    "isHot": "0",
-                    "startTime": "2026/06/03 02:00:00 +0000",
-                    "teamA": "Valkyries",
-                    "teamAFlag": "https://img.sofascore.com/api/v1/team/1041936/image",
-                    "teamB": "Fire",
-                    "teamBFlag": "https://img.sofascore.com/api/v1/team/1166446/image"
-                },
-                "id": 979,
-                "title": "WNBA"
-            },
-            {
                 "cat": "Ice hockey",
                 "channels_data": [
                     {
-                        "link": "<iframe src=\"https://ayvspop.github.io/HLS-PLAYER/?play=https://fallback-video.ivan-flux.workers.dev/video/index.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-                        "title": "Ivan-FluX",
+                        "link": "<iframe src=\"https://ayvspop.github.io/DASH-PLAYER/?play=https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd&k1=1a5df53609ebc9857898c490f4724918&k2=77f62980d582ec541280796acf8b2d19\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+                        "title": "PREMIER SPORTS",
                         "tokenApi": ""
                     }
                 ],
